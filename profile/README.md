@@ -5,6 +5,7 @@
 [![Django 4.2.8](https://img.shields.io/badge/Django-4-green)][Django]
 [![PostgreSQL 15](https://img.shields.io/badge/PostgreSQL-15-green.svg)][PostgreSQL]
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-green)][Python]
+[![Follow uLynks on Mastodon](https://img.shields.io/mastodon/follow/111813739207573245)](https://mastodon.social/@ulynks "Follow @ulynks@mastodon.social on Mastodon")
 
 Growing on Fyn, Denmark 🇩🇰
 
