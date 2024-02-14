@@ -2,7 +2,7 @@
 <!-- omit in toc -->
 # Contributing
 
-Eventually we will come up with a set of rules and guidelines. So far Panda says...
+Eventually, we will come up with a set of rules and guidelines. For now Panda says...
 
 <div style="width:100%;clear:float;">
 <img src="https://gist.github.com/assets/8126807/32843a09-a7d4-4fa3-b471-e993661ac78e" style="float:left;width:20%;margin:0;padding:0;" alt="Panda says You Break It, You Fix It!">
