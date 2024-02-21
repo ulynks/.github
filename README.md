@@ -1,22 +1,36 @@
-# .github
+<!-- markdownlint-disable MD033 MD041 -->
 
-[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=P3DGL6EANDY96&source=url)
-[![Follow JV conseil – Internet Consulting on Twitter](https://img.shields.io/twitter/follow/JVconseil.svg?style=social&logo=twitter)](https://twitter.com/JVconseil)
+# uLynks 🐈
 
-You can add default community health files for your organization to the root of a public repository called .github that is owned by the organization.
+[![Django 4.2.8](https://img.shields.io/badge/Django-4-green)][Django]
+[![PostgreSQL 15](https://img.shields.io/badge/PostgreSQL-15-green.svg)][PostgreSQL]
+[![Python 3.12](https://img.shields.io/badge/Python-3.12-green)][Python]
+[![Follow uLynks on Mastodon](https://img.shields.io/mastodon/follow/111813739207573245)](https://mastodon.social/@ulynks "Follow @ulynks@mastodon.social on Mastodon")
 
-## Displaying a sponsor button in your repository
+Growing on Fyn, Denmark 🇩🇰
 
-A _FUNDING.yml_ file displays a sponsor button in your repository to increase the visibility of funding options for your open source project. For more information, see "Displaying a sponsor button in your repository."
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ulynks.ulynks)
 
-```txt
-github: [octocat, surftocat]
-patreon: octocat
-tidelift: npm/octo-package
-custom: ["https://www.paypal.me/octocat", octocat.com]
-```
+<!--
 
-## See
+[![Python 3.9.12](https://img.shields.io/badge/Python-3.9.12-green)](https://www.python.org/downloads/release/python-3910/)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![License BSD 3-Clause](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](LICENSE)
+[![Follow SDU RIO Analytics on Twitter](https://img.shields.io/twitter/follow/sdurioanalytics.svg?style=social&logo=twitter)](https://twitter.com/sdurioanalytics)
 
-- https://help.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file-for-your-organization
-- https://help.github.com/en/github/building-a-strong-community/displaying-a-sponsor-button-in-your-repository
+**Here are some ideas to get you started:**
+
+🙋‍♀️ A short introduction - what is your organization all about?
+🌈 Contribution guidelines - how can the community get involved?
+👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+🍿 Fun facts - what does your team eat for breakfast?
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-->
+
+<!-- links -->
+
+[Django]: https://docs.djangoproject.com/en/5.0/releases/4.2.8/
+[PostgreSQL]: https://www.postgresql.org/docs/15/
+[Python]: https://www.python.org/downloads/release/python-3112/
+[PostgreSQL Cheat Sheet]: https://gist.github.com/JV-conseil/179e6306ae3be1dfcea0fb697f9cd9d2#file-postgresqlcheatsheet-md
+[Git Cheat Sheet]: https://gist.github.com/JV-conseil/179e6306ae3be1dfcea0fb697f9cd9d2#file-gitcheatsheet-md
