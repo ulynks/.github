@@ -10,7 +10,7 @@
 
 Growing on Fyn, Denmark 🇩🇰
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ulynks.ulynks)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ulynks.ulynks&right_color=orange)
 
 <!--
 
